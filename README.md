@@ -6,6 +6,7 @@
 | Courses                                                      |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [TU Wien Rendering/Ray Tracing Course](https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2018.html)<br>([YouTube](https://www.youtube.com/watch?v=pjc1QAI6zS0&list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi), [哔哩哔哩](https://www.bilibili.com/video/av39918593)) | 一门关于真实感渲染、光线追踪和全局光照技术的课程             |
+| [Games 101](https://www.bilibili.com/video/BV1X7411F744?from=search&seid=11073157876774237834) | 闫令琪老师关于计算机图形学的公开课程，2020 Release 
 | [Computer Graphics](http://15462.courses.cs.cmu.edu/spring2019/) | CMU 15-462/662                                               |
 | [COS 426 Computer Graphics](https://www.cs.princeton.edu/courses/archive/spring14/cos426/syllabus.php) | Princeton COS 426: Computer Graphics (a bit more about the fundamental theory behind CG.) |
 | [COS 526 Advanced Computer Graphics](https://www.cs.princeton.edu/courses/archive/fall14/cos526/syllabus.php) | Princeton COS 426: Advanced Computer Graphics.               |
